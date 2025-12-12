@@ -1,17 +1,19 @@
-# Student Performance Prediction
+# Student Performance Prediction 📚
 
-This project predicts student final results using machine learning.
+A Machine Learning project that predicts a student’s final result based on study hours, attendance, and previous marks using Linear Regression.
 
 ## Technologies Used
 - Python
 - Pandas
 - Scikit-learn
 
-## Algorithm
-- Linear Regression
-
 ## How to Run
-1. Install requirements:
+1. Clone the repo:
+   git clone https://github.com/guna1023/student-performance-prediction.git
+
+2. Install dependencies:
    pip install -r requirements.txt
-2. Run:
+
+3. Run the project:
    python main.py
+
